@@ -1,5 +1,7 @@
 # 嘸．改 Windows x64
 
+Android 與 Windows 的後續版本、問題回報及開發均已移至 [hamanpaul/liu-kai](https://github.com/hamanpaul/liu-kai)。[Windows 正式版](https://github.com/hamanpaul/liu-kai/releases/tag/windows-v0.1.0) · [歷史議題與 PR 對照](https://github.com/hamanpaul/liu-kai/blob/main/docs/windows-history.md)
+
 發行建置、測試、診斷與驗收流程見 [RELEASE_FLOW.md](RELEASE_FLOW.md)。
 
 原生 Windows TSF 輸入法，使用 Android 手 key 字表與無改圖示。字碼以原字根表為準；品牌保持彩色，另有獨立中／英狀態。不包含自訂字詞、關聯詞或品牌灰階切換。
